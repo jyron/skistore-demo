@@ -1,0 +1,93 @@
+[
+    {
+      "id": "1",
+      "title": "Cold Weather Boots",
+      "price": "105",
+      "weather": "cold"
+    },
+    {
+      "id": "2",
+      "title": "Rainy Weather Boots",
+      "price": "140",
+      "weather": "rainy"
+    },
+    {
+      "id": "3",
+      "title": "Hot Weather Boots",
+      "price": "120",
+      "weather": "hot"
+    },
+    {
+      "id": "4",
+      "title": "Cold Weather Pants",
+      "price": "140",
+      "weather": "cold"
+    },
+    {
+      "id": "5",
+      "title": "Rainy Weather Pants",
+      "price": "140",
+      "weather": "rainy"
+    },
+    {
+      "id": "6",
+      "title": "Hot Weather Pants",
+      "price": "140",
+      "weather": "hot"
+    },
+    {
+      "id": "7",
+      "title": "Cold Weather Socks",
+      "price": "140",
+      "weather": "cold"
+    },
+    {
+      "id": "8",
+      "title": "Rainy Weather Socks",
+      "price": "140",
+      "weather": "rainy"
+    },
+    {
+      "id": "9",
+      "title": "Hot Weather Socks",
+      "price": "140",
+      "weather": "hot"
+    },
+    {
+      "id": "10",
+      "title": "Cold Weather Jacket",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7f/h4a/11988377665566.jpg",
+      "price": "140",
+      "weather": "cold"
+    },
+    {
+      "id": "11",
+      "title": "Rainy Weather Jacket",
+      "price": "140",
+      "weather": "rainy"
+    },
+    {
+      "id": "12",
+      "title": "Hot Weather Jacket",
+      "price": "140",
+      "weather": "hot"
+    },
+    {
+      "id": "13",
+      "title": "Cold Weather Hat",
+      "price": "140",
+      "weather": "cold"
+    },
+    {
+      "id": "14",
+      "title": "Rainy Weather Hat",
+      "price": "140",
+      "weather": "rainy"
+    },
+    {
+      "id": "15",
+      "title": "Hot Weather Hat",
+      "price": "140",
+      "weather": "hot"
+    }
+  ]
